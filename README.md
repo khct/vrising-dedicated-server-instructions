@@ -13,3 +13,4 @@ There are currently three (3) different versions of V Rising, and therefore also
 More information about V Rising.
 * [V Rising Official Website](https://playvrising.com)
 * [V Rising Official Discord Server](https://discord.com/invite/vrising)
+* [V Rising Steam Store Page](https://store.steampowered.com/app/1604030/V_Rising/)
