@@ -5,7 +5,7 @@
 >
 > Links to instructions for other versions can be found in the top level [README](../README.md) file.
 
-The V Rising Dedicated Server is as it sounds a dedicated server application for the game [V Rising](https://store.steampowered.com/app/1604030/V_Rising/).
+The V Rising Dedicated Server is the server application for the game [V Rising](https://store.steampowered.com/app/1604030/V_Rising/).
 
 # Download
 The V Rising Dedicated Server application can be downloaded from Steam, and is freely available to everyone. It can be found in the Tools section of your library. At the moment there is only a Windows version of the server available.
