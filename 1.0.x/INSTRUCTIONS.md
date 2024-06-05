@@ -217,7 +217,7 @@ Type: `string`
 Example value: `10:1:1,30:0:1,60:0:1,120:0:1,180:0:1,240:0:1,360:0:1,720:0:1,1440:0:1,2880:0:1,52560000:99:0`  
 Overrides: `VR_AUTOSAVESMARTKEEP=<string>`, `-saveSmartKeep <string>`  
 
-See the [AutoSaveSmartKeep and AutoSaveCount Settings](#autosavesmartkeep-autosavecount-and-settings) section for more details about the format of the `AutoSaveSmartKeep` setting and how it works together with `AutoSaveCount`.  
+See the [AutoSaveSmartKeep and AutoSaveCount Settings](#autosavesmartkeep-and-autosavecount-settings) section for more details about the format of the `AutoSaveSmartKeep` setting and how it works together with `AutoSaveCount`.  
 
 ---
 
