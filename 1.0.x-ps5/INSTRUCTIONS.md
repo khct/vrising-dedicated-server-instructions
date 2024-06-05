@@ -144,7 +144,7 @@ Overrides: `VR_PASSWORD=<password>`, `-password "<password>"`
 ---
 
 Setting: `ListOnEOS`  
-Description: Register on EOS list server or not. The client looks for servers here by default, due to additional features available.  
+Description: Register on EOS list server or not.  
 Type: `boolean`  
 Example value: `true`, `false`  
 Overrides: `VR_LIST_ON_EOS=<value>`, `-listOnEOS <value>`  
