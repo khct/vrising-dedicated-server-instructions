@@ -10,7 +10,7 @@ The V Rising Dedicated Server is the server application for the game [V Rising](
 # Download
 The V Rising Dedicated Server application can be downloaded from Steam, and is freely available to everyone. It can be found in the Tools section of your library. At the moment there is only a Windows version of the server available.
 
-This version of the V Rising Dedicated server can (currently) be downloaded from the `default` branch.
+This version of the V Rising Dedicated server can be downloaded from the `legacy-1.0.x-pc` branch.
 
 If you are using [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD) to download and run the server, the Steam AppID for the V Rising Dedicated Server is `1829350`. This is used for downloading the server, but when running it, it will use the same Steam AppID as the client, which is defined in the `steam_appid.txt` file supplied with the download.
 
